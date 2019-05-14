@@ -4,6 +4,12 @@ body {
   margin: 0;
 }
 
+button {
+  position: absolute;
+  left: 100px;
+  top: 150px;
+}
+
 img {
     max-width:100%;
     height: 75;
