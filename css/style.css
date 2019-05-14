@@ -1,5 +1,6 @@
 body{
     background-color: cornflowerblue;
+    background-image: url(loop.png)
 }
 
 @font-face {
@@ -12,11 +13,21 @@ body{
 		format('opentype');
 }
 
-div {
+.leascale{
+    text-align: center;
+}
+
+.lea{
+    height: 450;
+    width: 500;
+}
+
+
+div{
    text-align: center;
 }
 
-h1, h2{
+h1, h2, h3{
     text-align: center;
     font-family: 'hallfetica', sans-serif;
 }
