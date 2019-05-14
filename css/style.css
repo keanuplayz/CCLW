@@ -1,6 +1,5 @@
 body{
     background-color: cornflowerblue;
-    font
 }
 
 @font-face {
@@ -13,6 +12,11 @@ body{
 		format('opentype');
 }
 
+div {
+   text-align: center;
+}
+
 h1, h2{
+    text-align: center;
     font-family: 'hallfetica', sans-serif;
 }
