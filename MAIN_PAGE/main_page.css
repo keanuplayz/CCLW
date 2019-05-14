@@ -3,6 +3,12 @@ body {
   background-color: cornflowerblue
 }
 
+img {
+    max-width:100%;
+    height: 200;
+    width: 200;
+}
+
 .navbar {
   overflow: hidden;
   background-color: #333;
