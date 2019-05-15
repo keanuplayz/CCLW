@@ -9,6 +9,10 @@ h1, h1, h3, h4{
   color: white;
 }
 
+.leatag{
+  height: 50px;
+  width: 100px;
+}
 
 .home {
   position: absolute;
