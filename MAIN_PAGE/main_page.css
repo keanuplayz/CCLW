@@ -35,6 +35,12 @@ h1,h2,h3,h4 {
   top: 20px;
 }
 
+.imag {
+    position: absolute;
+    left: 440px;
+    top: 20px;
+}
+
 img {
     max-width:100%;
     height: 75;
