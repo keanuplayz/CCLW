@@ -15,7 +15,7 @@
 
 body{
     background-color: cornflowerblue;
-    background-image: url(loop.png)
+    background-image: url(../img/loop.png)
 }
 
 @font-face {
